@@ -1,0 +1,30 @@
+[
+  {
+    "id": "p-001",
+    "category": "projects",
+    "title": "Dự án 1 — Poster",
+    "alt": "Poster dự án 1",
+    "url": "images/projects/project-001.jpg",
+    "width": 1200,
+    "height": 800,
+    "srcset": [
+      { "url": "images/projects/project-001-400.jpg", "w": 400 },
+      { "url": "images/projects/project-001-800.jpg", "w": 800 },
+      { "url": "images/projects/project-001-1200.jpg", "w": 1200 }
+    ]
+  },
+  {
+    "id": "p-002",
+    "category": "projects",
+    "title": "Dự án 2 — Banner",
+    "alt": "Banner dự án 2",
+    "url": "images/projects/project-002.jpg"
+  },
+  {
+    "id": "banner-01",
+    "category": "banners",
+    "title": "Banner trang chủ",
+    "alt": "Banner trang chủ màu xanh",
+    "url": "images/banners/banner-01.jpg"
+  }
+]
