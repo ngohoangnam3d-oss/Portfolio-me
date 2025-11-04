@@ -4,7 +4,7 @@
 Scaffold cho portfolio gallery + trang upload ảnh (drag & drop) để thêm nhiều ảnh vào repo.
 
 Hướng dẫn nhanh:
-1. Tạo repository private tên `portfolio-cá nhân` trên GitHub trong tài khoản `ngohoangnam3d-oss`.
+1. Tạo repository private tên `portfolio-me` trên GitHub trong tài khoản `ngohoangnam3d-oss`.
 2. Thêm các file từ repo (index.html, upload.html, styles.css, script.js, upload.js, gallery.json, README.md).
 3. Tạo branch `main` (mặc định).
 4. (Tùy chọn) Thêm placeholder images vào `images/projects/` và `images/banners/` theo gallery.json mẫu.
